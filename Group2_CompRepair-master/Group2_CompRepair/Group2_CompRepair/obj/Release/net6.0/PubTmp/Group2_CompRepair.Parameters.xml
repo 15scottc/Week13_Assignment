@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="Group2CompRepair20220415160004" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\C\#II\\Group2_CompRepair-master\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\codys\\Documents\\Week13_Assignment-main\\Week13_Assignment-main\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
