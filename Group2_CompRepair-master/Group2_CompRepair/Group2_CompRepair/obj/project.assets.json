@@ -9657,11 +9657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codys\\Documents\\Week13_Assignment-main\\Week13_Assignment-main\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
+      "projectUniqueName": "C:\\C#II\\Week13_Assignment\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
       "projectName": "Group2_CompRepair",
-      "projectPath": "C:\\Users\\codys\\Documents\\Week13_Assignment-main\\Week13_Assignment-main\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
+      "projectPath": "C:\\C#II\\Week13_Assignment\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
       "packagesPath": "C:\\Users\\codys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codys\\Documents\\Week13_Assignment-main\\Week13_Assignment-main\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\obj\\",
+      "outputPath": "C:\\C#II\\Week13_Assignment\\Group2_CompRepair-master\\Group2_CompRepair\\Group2_CompRepair\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\codys\\AppData\\Roaming\\NuGet\\NuGet.Config",
